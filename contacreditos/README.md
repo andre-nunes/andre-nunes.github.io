@@ -10,7 +10,7 @@ So far it as all the courses for the Degree (Bsc) in Information Systems and Com
 
 Usage
 -----
-The tool is currently hosted here: http://www.andre-nunes.com/contacreditos
+The tool is currently hosted here: http://andre-nunes.com/contacreditos
 
 
 More info on the Bologna Process
