@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: andre-nunes.com
+Token: 97ed3d10b4519fe2ab235a03fd1227ef0194805c86098b6a9cc778771a95f133
